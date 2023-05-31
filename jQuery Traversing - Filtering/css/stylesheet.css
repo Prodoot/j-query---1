@@ -1,0 +1,22 @@
+/* Common css start */
+
+*{
+    padding: 0;
+    margin: 0;
+    outline: 0;
+    box-sizing: border-box;
+}
+
+a{
+    text-align: none;
+}
+
+ul{
+    list-style-type: none;
+}
+
+/* Common css end */
+
+div{
+    border: 1px solid black;
+}
